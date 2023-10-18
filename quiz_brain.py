@@ -22,4 +22,4 @@ class QuizBrain:
             self.score += 1
         else:
             print("Wrong answer!")
-        print(f"The right answer was {correct_answer}")
+        print(f"The right answer was: {correct_answer} \n")
